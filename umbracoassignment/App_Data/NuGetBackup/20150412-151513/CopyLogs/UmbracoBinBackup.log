@@ -1,0 +1,26 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : 12. april 2015 15:15:13
+   Source : C:\Users\Kenn\Documents\Visual Studio 2013\Projects\umbracoassignment\umbracoassignment\bin\
+     Dest : C:\Users\Kenn\Documents\Visual Studio 2013\Projects\umbracoassignment\umbracoassignment\App_Data\NuGetBackup\20150412-151513\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Users\Kenn\Documents\Visual Studio 2013\Projects\umbracoassignment\umbracoassignment\bin\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         0         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 12. april 2015 15:15:13
+
